@@ -349,7 +349,7 @@ paths:
     post:
       tags:
         - Authentication
-      summary: Create a user
+      summary: Create a user demo
       description: Time to create a user account, eh?
       operationId: createUser
       security:
